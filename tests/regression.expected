@@ -1,0 +1,27 @@
+Columns: tag, data
+Column renamed: tag -> RNO.
+Column renamed: data -> Name.
+Column added: CGPA.
+1 record inserted.
+1 record inserted.
++-----+--------------+------+
+| RNO | Name         | CGPA |
++-----+--------------+------+
+| 101 | Hari Student | 9.20 |
++-----+--------------+------+
+1 record.
++-----+---------------+------+
+| RNO | Name          | CGPA |
++-----+---------------+------+
+| 101 | Hari Student  | 9.20 |
+| 102 | Rahul Student | 8.70 |
++-----+---------------+------+
+2 records.
+1 record updated.
++-----+--------------+------+
+| RNO | Name         | CGPA |
++-----+--------------+------+
+| 101 | Hari Student | 9.20 |
++-----+--------------+------+
+1 records shown, 1 remaining.
+Database closed.

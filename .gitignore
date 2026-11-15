@@ -1,0 +1,13 @@
+/minidb
+/minidb.exe
+/minidb_debug
+/minidb_debug.exe
+/minidb_bench
+/minidb_bench.exe
+/tests/test_minidb
+/tests/test_minidb.exe
+/tools/__pycache__/
+*.pyc
+/minidb-test-*.db
+/minidb-test-*.db.lock
+/temp_data.db.lock

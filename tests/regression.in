@@ -1,0 +1,12 @@
+# Generic database: rename the default columns, then add a column.
+COLUMNS
+RENAME COLUMN tag RNO
+RENAME COLUMN data Name
+ADD COLUMN CGPA
+INSERT 101 "Hari Student" 9.20
+INSERT 102 "Rahul Student" 8.70
+SELECT 101
+SELECT RANGE 100 200
+UPDATE 102 CGPA 8.95
+DISPLAY LIMIT 1
+EXIT
