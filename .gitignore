@@ -11,4 +11,4 @@
 /minidb-test-*.db
 /minidb-test-*.db.lock
 /temp_data.db.lock
-Result.db
+/Result.db
